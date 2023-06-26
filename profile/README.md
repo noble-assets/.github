@@ -1,4 +1,4 @@
-![](../assets/banner.png)
+![](https://raw.githubusercontent.com/noble-assets/.github/main/assets/banner.png)
 
 ## What is Noble?
 
